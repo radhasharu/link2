@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/8578748/display-a-text-field-after-a-checkbox-is-checked-in-visualforce?rq=1
